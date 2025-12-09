@@ -1,7 +1,7 @@
 ## Hello. My name is Timofey Rumak.👋
 
 ## About Me
-- 🎓 I am a graduate of the Hexlet educational platform, specializing in Backend Development.
+- 🎓 Specializing in Backend Development.
 - 💻 My technical skills include Python 3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
 - 
@@ -10,9 +10,6 @@
 - 📧 Email: timarumak@gmail.com
 - ✉️ Telegram: [@Tve1n](https://t.me/Tve1n)
 - 🛃 LinkedIn: [Tve1n](https://www.linkedin.com/in/timofey-rumak-b8839a246)
-
-## Projects
-- 🚀 You can check out my <!! [projects](https://Tve1n.github.io) !!> that I have completed.
 
 
 ## Languages and Tools
